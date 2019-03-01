@@ -20,11 +20,11 @@
 			<?php include "./product/cocoa & vanilla/header_cocoavanilla.php"?>
 		</header>
 		<!-- 
-			- fitur include dibawah bisa disederhanakan lagi untuk tujuan security.
+			- fitur include dibawah bisa disederhanakan lagi untuk tujuan security.     
 			- bisa menggunakan fitur function sebagai trigger untuk fetch blog.php, footer.php, features.php dan java_script.php
 
 			contoh : 
-			1. buat file dengan nama content.php
+			1. buat file dengan nama content.php   
             2. didalam content.php, syntax nya bisa seperti berikut : 
 			
 			public function(content)
