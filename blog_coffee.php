@@ -101,6 +101,7 @@
 	                                <a href="#"><i class="fa fa-tag"></i>Product</a>
 	                            </div>
 	                            <!-- blog tags -->
+								
 
 	                        </div>
 	                    </div>
